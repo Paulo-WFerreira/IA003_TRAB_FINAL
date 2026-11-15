@@ -1,0 +1,15 @@
+{
+ "fonte": "https://dadosabertos.ans.gov.br/FTP/PDA/informacoes_consolidadas_de_beneficiarios-024/202609/pda-024-icb-RS-2026_09.zip",
+ "competencia": "2026-09",
+ "N": 2667053,
+ "n0": 384.16,
+ "n": 385,
+ "confianca": 0.95,
+ "margem": 0.05,
+ "p": 0.5,
+ "semente": 20261108,
+ "linhas_cadastro": 627394,
+ "linhas_populacao_agregada": 8360,
+ "numpy": "2.2.6",
+ "pandas": "2.3.3"
+}
